@@ -21,7 +21,7 @@ The project uses two datasets:
 1. Clone the repository:
      git clone https://github.com/SriGopalaKrishnan-R/Advanced-Ensemble-Architecture-For-Accurate-Fire-and-Smoke-Detection/
 2. Navigate to the project directory:
-     cd code/ 
+     cd codes/ 
 3. Create a virtual environment and activate it:
      python -m venv venv
      source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
