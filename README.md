@@ -1,4 +1,4 @@
-# State of Art Ensembler_architecture For Fire And Smoke Detection
+# State of Art Ensembler Architecture For Fire And Smoke Detection
 This project implements an ensemble of state-of-the-art deep learning models (DenseNet, ResNet, Xception) to detect forest fires and smoke. The ensemble model, which uses a majority voting scheme, improves detection accuracy over individual models.The ensemble model outperforms individual models in terms of accuracy, precision, recall, and F1 score. The ensemble model achieves an accuracy of 0.99 on the fire dataset and 0.984 on the fire and smoke dataset.
 
 ## Introduction
